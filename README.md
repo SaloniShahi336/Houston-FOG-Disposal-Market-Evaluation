@@ -108,7 +108,7 @@ jupyter notebook Houston.ipynb
 
 ```
 Houston-FOG-Disposal-Market-Evaluation/
-├── Houston.ipynb                          # Main analysis notebook
+├── Houston_Clean.ipynb                    # Main analysis notebook
 ├── Houston_Market_Evaluation_Report.pdf   # Written market evaluation report
 ├── Houston_Market_Map2.html               # Interactive heat map (open in browser)
 ├── Houston_All_Restaurants.csv            # 4,502 geocoded restaurant locations
@@ -116,7 +116,7 @@ Houston-FOG-Disposal-Market-Evaluation/
 ├── Houston_Gap_Analysis_Complete.csv      # 54-zone gap analysis output
 ├── CBP2023_CB2300CBP-Data.csv             # Census County Business Patterns data
 ├── Surcharge_county.xlsx                  # Surcharge rate data by county
-├── msw-facilities-texas.xls              # Full TCEQ MSW facility registry
+├── msw-facilities-texas.xls               # Full TCEQ MSW facility registry
 ├── Chart1_Distance_By_County.png          # Distance analysis chart
 ├── Chart2_County_Gap_Summary.png          # Gap assessment chart
 ├── Chart3_Opportunity_By_County.png       # Opportunity matrix chart
