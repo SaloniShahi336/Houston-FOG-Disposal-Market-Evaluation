@@ -82,7 +82,7 @@ This analysis was built as a complete market evaluation exercise combining geosp
 | [`Chart3_Opportunity_By_County.png`](Charts/Chart3_Opportunity_By_County.png) | Scatter plot — restaurant count vs. distance to nearest facility, colored by county |
 | [`Chart_Surcharge_Rates.png`](Charts/Chart_Surcharge_Rates.png) | Surcharge rate ranges by county with FOG limits on secondary axis |
 | [`Chart_FOG_Limits.png`](Charts/Chart_FOG_Limits.png) | FOG discharge limits by county with regulatory strictness color coding |
-| [`Chart_Infrastructure_Gap.png`](Charts/Chart_Infrastructure_Gap.png) | Infographic — Harris County (6 facilities, 10,038 restaurants) vs. 8 other counties (zero facilities, 4,494 restaurants) |
+
 
 ---
 
