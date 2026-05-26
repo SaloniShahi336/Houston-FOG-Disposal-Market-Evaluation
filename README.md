@@ -74,8 +74,6 @@ This analysis was built as a complete market evaluation exercise combining geosp
 
 ## 🖼️ Visualizations
 
-## 🖼️ Visualizations
-
 | Visualization | Description |
 |---|---|
 | [`Houston_Market_Map2.html`](Houston_Market_Map2.html) | Interactive heat map — open in browser to explore restaurant density, county boundaries, and competitor locations |
