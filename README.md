@@ -74,15 +74,17 @@ This analysis was built as a complete market evaluation exercise combining geosp
 
 ## 🖼️ Visualizations
 
+## 🖼️ Visualizations
+
 | Visualization | Description |
 |---|---|
-| `Houston_Market_Map2.html` | Interactive heat map — open in browser to explore restaurant density, county boundaries, and competitor locations |
-| `Chart1_Distance_By_County.png` | Distance from restaurant hot spots to nearest 5GG facility, grouped by county |
-| `Chart2_County_Gap_Summary.png` | Stacked bar chart — high-density zones per county by gap classification |
-| `Chart3_Opportunity_By_County.png` | Scatter plot — restaurant count vs. distance to nearest facility, colored by county |
-| `Chart_Surcharge_Rates.png` | Surcharge rate ranges by county with FOG limits on secondary axis |
-| `Chart_FOG_Limits.png` | FOG discharge limits by county with regulatory strictness color coding |
-| `Chart_Infrastructure_Gap.png` | Infographic — Harris County (6 facilities, 10,038 restaurants) vs. 8 other counties (zero facilities, 4,494 restaurants) |
+| [`Houston_Market_Map2.html`](Houston_Market_Map2.html) | Interactive heat map — open in browser to explore restaurant density, county boundaries, and competitor locations |
+| [`Chart1_Distance_By_County.png`](Chart1_Distance_By_County.png) | Distance from restaurant hot spots to nearest 5GG facility, grouped by county |
+| [`Chart2_County_Gap_Summary.png`](Chart2_County_Gap_Summary.png) | Stacked bar chart — high-density zones per county by gap classification |
+| [`Chart3_Opportunity_By_County2.png`](Chart3_Opportunity_By_County2.png) | Scatter plot — restaurant count vs. distance to nearest facility, colored by county |
+| [`Chart_Surcharge_Rates.png`](Chart_Surcharge_Rates.png) | Surcharge rate ranges by county with FOG limits on secondary axis |
+| [`Chart_FOG_Limits.png`](Chart_FOG_Limits.png) | FOG discharge limits by county with regulatory strictness color coding |
+| [`Chart_Infrastructure_Gap.png`](Chart_Infrastructure_Gap.png) | Infographic — Harris County (6 facilities, 10,038 restaurants) vs. 8 other counties (zero facilities, 4,494 restaurants) |
 
 ---
 
